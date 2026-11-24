@@ -1,10 +1,16 @@
 # What is GroceryDB?
 [![DOI](https://img.shields.io/static/v1?label=Nature%20Food&message=10.1038/s43016-022-00511-0&color=006699)](https://doi.org/10.1038/s43016-022-00511-0)
+
 [![DOI](https://img.shields.io/static/v1?label=Nature%20Comms&message=10.1038/s41467-023-37457-1&color=006699)](https://doi.org/10.1038/s41467-023-37457-1)
+
 [![DOI](https://img.shields.io/static/v1?label=Nature%20Food&message=10.1038/s43016-024-01095-7&color=006699)](https://doi.org/10.1038/s43016-024-01095-7)
+
 [![GitHub contributors](https://img.shields.io/github/contributors/Barabasi-Lab/GroceryDB.svg)](https://github.com/Barabasi-Lab/GroceryDB/contributors) [![License](https://img.shields.io/github/license/Barabasi-Lab/GroceryDB.svg)](https://github.com/Barabasi-Lab/GroceryDB/blob/main/LICENSE)
+
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Barabasi-Lab/GroceryDB)
-The offering of grocery stores is a strong driver of consumer decisions. While highly processed foods such as packaged products, processed meat and sweetened soft drinks have been increasingly associated with unhealthy diets, information on the degree of processing characterizing an item in a store is not straightforward to obtain, limiting the ability of individuals to make informed choices. GroceryDB, a database with over 50,000 food items sold by Walmart, Target and Whole Foods, shows the degree of processing of food items and potential alternatives in the surrounding food environment. The extensive data gathered on ingredient lists and nutrition facts enables a large-scale analysis of ingredient patterns and degrees of processing, categorized by store, food category and price range. Furthermore, it allows the quantification of the individual contribution of over 1,000 ingredients to ultra-processing. GroceryDB and the associated http://TrueFood.Tech/ website make this information accessible, guiding consumers toward less processed food choices.
+
+
+The offering of grocery stores is a strong driver of consumer decisions. While highly processed foods such as packaged products, processed meat and sweetened soft drinks have been increasingly associated with unhealthy diets, information on the degree of processing characterizing an item in a store is not straightforward to obtain, limiting the ability of individuals to make informed choices. GroceryDB, a database with over 50,000 food items sold by Walmart, Target and Whole Foods, shows the degree of processing of food items and potential alternatives in the surrounding food environment. The extensive data gathered on ingredient lists and nutrition facts enables a large-scale analysis of ingredient patterns and degrees of processing, categorized by store, food category and price range. Furthermore, it allows the quantification of the individual contribution of over 1,000 ingredients to ultra-processing. GroceryDB and the associated https://www.grocerydb.net website make this information accessible, guiding consumers toward less processed food choices.
 
 # Related Publications
 
