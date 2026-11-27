@@ -1,9 +1,5 @@
 # What is GroceryDB?
-[![DOI](https://img.shields.io/static/v1?label=Nature%20Food&message=10.1038/s43016-022-00511-0&color=006699)](https://doi.org/10.1038/s43016-022-00511-0)
-
-[![DOI](https://img.shields.io/static/v1?label=Nature%20Comms&message=10.1038/s41467-023-37457-1&color=006699)](https://doi.org/10.1038/s41467-023-37457-1)
-
-[![DOI](https://img.shields.io/static/v1?label=Nature%20Food&message=10.1038/s43016-024-01095-7&color=006699)](https://doi.org/10.1038/s43016-024-01095-7)
+[![DOI](https://img.shields.io/static/v1?label=Nature%20Food&message=10.1038/s43016-022-00511-0&color=006699)](https://doi.org/10.1038/s43016-022-00511-0) [![DOI](https://img.shields.io/static/v1?label=Nature%20Comms&message=10.1038/s41467-023-37457-1&color=006699)](https://doi.org/10.1038/s41467-023-37457-1) [![DOI](https://img.shields.io/static/v1?label=Nature%20Food&message=10.1038/s43016-024-01095-7&color=006699)](https://doi.org/10.1038/s43016-024-01095-7)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Barabasi-Lab/GroceryDB.svg)](https://github.com/Barabasi-Lab/GroceryDB/contributors) [![License](https://img.shields.io/github/license/Barabasi-Lab/GroceryDB.svg)](https://github.com/Barabasi-Lab/GroceryDB/blob/main/LICENSE)
 

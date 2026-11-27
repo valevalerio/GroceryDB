@@ -29,3 +29,4 @@ google_service_credentials.json
 !/analysis/output/readme.txt
 *.eps
 analysis/.ipynb_checkpoints/*
+paper_folder/*
